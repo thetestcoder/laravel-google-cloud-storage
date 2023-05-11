@@ -11,7 +11,7 @@
   "require": {
     "php": ">=5.5.9",
     "illuminate/support": "^5.1|^6.0|^7.0|^8.0|^9.0|^10.0",
-    "superbalist/flysystem-google-storage": ">=3.0 <8.0",
+    "superbalist/flysystem-google-storage": "dev-master",
     "illuminate/filesystem": "^5.1|^6.0|^7.0|^8.0|^9.0|^10.0",
     "league/flysystem-cached-adapter": "dev-master"
   },
@@ -38,6 +38,10 @@
         {
             "type": "git",
             "url": "https://github.com/thetestcoder/flysystem-cached-adapter.git"
-        }
+        },
+     {
+        "type": "git",
+         "url": "https://github.com/thetestcoder/flysystem-google-cloud-storage.git"
+     }
      ]
 }
