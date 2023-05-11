@@ -32,5 +32,11 @@
   },
   "require-dev": {
     "phpunit/phpunit": ">=4.8"
-  }
+  },
+   "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/thetestcoder/flysystem-cached-adapter.git"
+        },
+     ]
 }
