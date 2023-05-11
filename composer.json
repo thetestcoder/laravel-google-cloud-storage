@@ -37,6 +37,6 @@
         {
             "type": "git",
             "url": "https://github.com/thetestcoder/flysystem-cached-adapter.git"
-        },
+        }
      ]
 }
